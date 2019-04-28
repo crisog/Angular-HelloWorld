@@ -1,4 +1,4 @@
-# Angular and TypeScript Hello World Project = SS
+# Angular and TypeScript Hello World Project = SS0
 
 The Hello World project is an Angular 2+ starter project that has the npm modules, 
 configuration, scripts and folders and routing in place to make getting started 
