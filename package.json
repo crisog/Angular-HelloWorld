@@ -6,7 +6,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "deploy": "ng build --prod --base-href https://http://ojenkins.eastus2.cloudapp.azure.com/app/",
+    "deploy": "ng build --prod --base-href https://ojenkins.eastus2.cloudapp.azure.com/app/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
